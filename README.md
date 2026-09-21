@@ -1,24 +1,3 @@
-```python
-import json
-import pandas as pd
-
-# Verify numerical values from Q2 or general stats if needed or check data model directly
-# Let's inspect the exact values from Python logic to ensure 100% accuracy in README summary.
-notebook_file = "customer_shopping_behavior.csv" # notebook contents saved as text JSON in system context
-# Let's write a quick python script to inspect the dataset statistics directly.
-import io
-
-# We can reconstruct data or check notebook cells
-print("Data analysis setup check.")
-
-
-```
-
-```text
-Data analysis setup check.
-
-
-```
 
 # Customer Shopping Behavior & Revenue Analytics
 
